@@ -1,0 +1,15 @@
+***VIP Note:
+1. I have installed python3.10 from deadsnakes repo and hence run python3.10 file_name.py 
+2. The default version of python is python3.8 only and don't make 3.10 the default because it can break ubuntu system
+3. changed the executormap settings (of python) of code runner to run using python3.10, so Alt+Ctrl+Z will interpret our code using python3.10
+
+/*
+pip list -v
+pip show <package name>   eg. pip show pyttsx3
+python module index(default modules):       /usr/lib/python3/dist-packages       
+python pypi(using pip install utility):     /home/ashish/.local/lib/python3.8/site-packages    
+pip --help
+*/
+
+*** Courses ***
+1. DSA for FAANG preparation with Python and JavaScript (ineuron)
