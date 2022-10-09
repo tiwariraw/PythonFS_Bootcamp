@@ -1,0 +1,1 @@
+# Write a python script to implemented a nested Try Except block

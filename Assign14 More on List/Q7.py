@@ -1,0 +1,1 @@
+# Write a Python script to remove all non int values from a list.

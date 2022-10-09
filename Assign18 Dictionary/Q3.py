@@ -1,0 +1,1 @@
+# Write a python program to get a list of the values from a dictionary.

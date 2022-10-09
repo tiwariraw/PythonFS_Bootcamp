@@ -1,0 +1,1 @@
+# Write a python program to delete the set completely.

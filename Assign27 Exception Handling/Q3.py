@@ -1,0 +1,1 @@
+# Write a python script to handle the ArithmeticError

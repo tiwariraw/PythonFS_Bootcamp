@@ -11,5 +11,7 @@ python pypi(using pip install utility):     /home/ashish/.local/lib/python3.8/si
 pip --help
 */
 
+// install vscode-pdf extension for viewing pdf files in vscode
+
 *** Courses ***
 1. DSA for FAANG preparation with Python and JavaScript (ineuron)

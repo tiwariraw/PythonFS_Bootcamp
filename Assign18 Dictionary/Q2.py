@@ -1,0 +1,1 @@
+# Write a python program to access the items of a dictionary by referring to its key name.

@@ -1,0 +1,1 @@
+# Delete any student from table with their rollno.

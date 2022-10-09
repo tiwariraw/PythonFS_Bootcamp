@@ -1,0 +1,1 @@
+# Write a recursive python function to calculate sum of cubes of first N natural numbers

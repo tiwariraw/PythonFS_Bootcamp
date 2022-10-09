@@ -1,0 +1,1 @@
+# Create a generator to produce squares of first N natural numbers

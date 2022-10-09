@@ -1,0 +1,1 @@
+# Write a Python script to calculate the sum of elements in a given list of numbers.

@@ -1,0 +1,1 @@
+# Write a recursive python function to calculate sum of first N even natural numbers

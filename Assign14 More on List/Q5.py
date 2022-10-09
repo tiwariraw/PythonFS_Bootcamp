@@ -1,0 +1,1 @@
+# Write a Python script to find the smallest number in a given list of numbers.

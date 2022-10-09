@@ -1,0 +1,1 @@
+# Write a python program to access a function inside a function.

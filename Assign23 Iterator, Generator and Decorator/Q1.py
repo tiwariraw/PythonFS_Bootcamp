@@ -1,0 +1,1 @@
+# Use iter and next method to access all the elements of a given set using while loop

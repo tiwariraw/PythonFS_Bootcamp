@@ -1,0 +1,1 @@
+# Create Courses table (cid, cname) where cid is a primary key and Student table (rollno, name, cid) where rollno is a primary key and cid is a foreign key.

@@ -1,0 +1,1 @@
+# Write a recursive python function to print cubes of first N natural numbers
